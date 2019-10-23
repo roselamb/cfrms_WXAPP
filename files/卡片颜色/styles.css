@@ -1,0 +1,136 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:700px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u72_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:650px;
+}
+#u72 {
+  position:absolute;
+  left:116px;
+  top:0px;
+  width:300px;
+  height:650px;
+}
+#u73 {
+  position:absolute;
+  left:2px;
+  top:317px;
+  width:296px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u74_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:231px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u74 {
+  position:absolute;
+  left:469px;
+  top:99px;
+  width:231px;
+  height:18px;
+}
+#u75 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:231px;
+  white-space:nowrap;
+}
+#u76_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:44px;
+  height:2px;
+}
+#u76 {
+  position:absolute;
+  left:426px;
+  top:116px;
+  width:43px;
+  height:1px;
+}
+#u77 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:39px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u78_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:145px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u78 {
+  position:absolute;
+  left:469px;
+  top:221px;
+  width:145px;
+  height:18px;
+}
+#u79 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:145px;
+  white-space:nowrap;
+}
+#u80_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:44px;
+  height:2px;
+}
+#u80 {
+  position:absolute;
+  left:426px;
+  top:238px;
+  width:43px;
+  height:1px;
+}
+#u81 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:39px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
